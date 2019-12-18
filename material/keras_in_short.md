@@ -1,22 +1,17 @@
 
-# TessorFlow
+# TessorFlow: 
 
-Google에서 개발한 Deep Larning Framework.
+* Deep Learning Framework by Google
 
-기본적인 알고리즘과 GPU, 분산 계산 처리를 해준다.
-
-<br>
+* 기본적인 알고리즘, GPU, 분산처리
 
 
 # Keras
 
-TensorFlow를 백엔드로 하는 추상 프레임웤.
+* TensorFlow를 백엔드로 하는 추상 프레임웤.
 
-TensorFlow에 포함되어 있다.
+* [TensorFlow에 포함 되어 있음](https://www.tensorflow.org/api_docs/python/tf/keras)
 
-- Reference : https://www.tensorflow.org/api_docs/python/tf/keras
-
-<br>
 
 
 # Keras 딥러닝 코드 Template
